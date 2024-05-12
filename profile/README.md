@@ -2,6 +2,9 @@
 <h3 align="center">All of this was created and developed by 5 people</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renlikesmoon&label=Pengunjung&color=0e75b6&style=flat" alt="renlikesmoon" /> </p>
+[![Follower Github]
+("https://img.shields.io/github/followers/:whiskeysockets")
+]("https://github.com/renlikesmoon/followers")
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UFtGFurre6AAAAAM/anime-dark.gif">
 

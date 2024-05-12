@@ -9,7 +9,7 @@
 
 - 🏢 We Have A Company Named **VolksCompagnie**
 
-- 🤝 We work together and Contribute **Dengan Remcompany**
+- 🤝 We work together and Contribute **with Remcompany**
 
 - 💬 If you have any question About **Whatsapp Bot, Please ask us!**
 

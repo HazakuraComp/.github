@@ -25,5 +25,3 @@ If you want to contact our team
 Click **button** below
 
 [![Contact Team](https://img.shields.io/badge/Volks%20MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=6285954540177&text=.help)
-
-[![Followers](https://github.com/renlikesmoon)]

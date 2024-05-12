@@ -26,4 +26,4 @@ Click **button** below
 
 [![Contact Team](https://img.shields.io/badge/Volks%20MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=6285954540177&text=.help)
 
-[![Followers](https://img.shields.io/github/Followers/:renlikesmoon)](https://github.com/renlikesmoon/followers)
+[![Followers](https://img.shields.io/github/followers/:renlikesmoon)](https://github.com/renlikesmoon)

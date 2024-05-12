@@ -1,7 +1,7 @@
 <h1 align="center">Welcome To VolkzCompagnie Federation</h1>
 <h3 align="center">All of this was created and developed by 5 people</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Whiskeysockets&label=Profile%20views&color=0e75b6&style=flat" alt="Whiskeysockets" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whiskeysockets&label=Profile%20views&color=0e75b6&style=flat" alt="whiskeysockets" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UFtGFurre6AAAAAM/anime-dark.gif">
 

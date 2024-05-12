@@ -2,9 +2,6 @@
 <h3 align="center">All of this was created and developed by 5 people</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renlikesmoon&label=Pengunjung&color=0e75b6&style=flat" alt="renlikesmoon" /> </p>
-[![Follower Github]
-("https://img.shields.io/github/followers/:whiskeysockets")
-]("https://github.com/renlikesmoon/followers")
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UFtGFurre6AAAAAM/anime-dark.gif">
 
@@ -28,3 +25,5 @@ If you want to contact our team
 Click **button** below
 
 [![Contact Team](https://img.shields.io/badge/Volks%20MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=6285954540177&text=.help)
+
+[![Followers](https://img.shields.io/github/followers/:whiskeysockets)](https://github.com/renlikesmoon/followers)

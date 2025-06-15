@@ -155,4 +155,5 @@ HazakuraComp는 WhatsApp 봇이 일상생활의 필수적인 부분이 되어 �
 
 <img src="https://pbs.twimg.com/media/FC4i6KtXsAo_4J7.png" alt="Image" style="display: block; margin: auto;">
 <h3 align="left">Fun Fact</h3> 
+
 ```Hazakura created specifically for WhatsApp bot development by Renata, and Coding for web..```

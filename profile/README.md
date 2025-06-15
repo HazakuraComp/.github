@@ -154,6 +154,20 @@ HazakuraComp는 WhatsApp 봇이 일상생활의 필수적인 부분이 되어 �
 # Hazakura #
 
 <img src="https://pbs.twimg.com/media/FC4i6KtXsAo_4J7.png" alt="Image" style="display: block; margin: auto;">
-<h3 align="left">Ko</h3> 
+<h3 align="left">Copyrights Compagnies</h3> 
 
-```Hazakura created specifically for WhatsApp bot development by Renata, and Coding for web..```
+**Copyrights Hazakura**
+
+All rights reserved. This software, documentation, and any accompanying materials are protected by copyright law and international treaties. No part of this work may be reproduced, distributed, or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or by any information storage and retrieval system, without the prior written permission of:
+
+**HazakuraComp
+Copyright (c) 2023 HazakuraComp. All rights reserved.**
+
+**Disclaimer**
+
+The information contained in this work is provided "as is" without warranty of any kind. HazakuraComp disclaims all warranties, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+**Permission**
+
+Permission is not granted to use, copy, modify, or distribute this work without the prior written consent of HazakuraComp. Requests for permission should be directed to volkszcompany@gmail.com.
+

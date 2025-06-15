@@ -47,17 +47,15 @@ Our projects are licensed under MIT License, which allows for free use, modifica
 
 We're excited to have you join our community, and we look forward to seeing what you'll create with our WhatsApp bots!
 
-Welcome to HazakuraComp
-
-HazakuraCompへようこそ
+**HazakuraCompへようこそ**
 
 私たちは、生活をより簡単に、効率的に、楽しくする革新的なWhatsAppボットを開発することに専念する、コミュニティ主導の組織です。私たちの使命は、自動化、カスタマーサービスなどのためにWhatsAppの力を活用したいと考えている個人、企業、団体に最先端のソリューションを提供することです。
 
-Our Vision
+**Our Vision**
 
 HazakuraCompでは、WhatsAppボットが日常生活の不可欠な一部となり、タスクの合理化、情報へのアクセス、他者とのより意味のあるつながりを可能にする未来を思い描いています。私たちは、WhatsAppボットで実現可能な限界を押し広げ、機能的でユーザーフレンドリーなソリューションを創り出すことに全力を尽くしています。
 
-What We Do
+**What We Do**
 
 私たちの専門開発者およびデザイナーチームは、ユーザーの具体的なニーズに応えるWhatsAppボットを作成するために尽力しています。シンプルなチャットボットから複雑な自動化システムまで、あらゆるニーズに対応しています。私たちのボットは以下のことに役立ちます：
 
@@ -69,19 +67,19 @@ What We Do
 
 エンターテインメントとエンゲージメント
 
-Our Projects
+**Our Projects**
 
 私たちは、特定の問題を解決し、特定のニーズを満たすように設計されたオープンソースプロジェクトを誇りを持って紹介します。私たちのプロジェクトには以下が含まれます：
 
-[ Mitsugoshi ] : カスタマーサービスとサポートのためのWhatsAppボット。ペア機能とロールプレイゲームを含む
+[ **Mitsugoshi** ] : カスタマーサービスとサポートのためのWhatsAppボット。ペア機能とロールプレイゲームを含む
 
-[ Datasource ] : エンターテインメントとエンゲージメントのためのWhatsAppライブラリデータベースボット
+[ **Datasource** ] : エンターテインメントとエンゲージメントのためのWhatsAppライブラリデータベースボット
 
-Get Involved
+**Get Involved**
 
 私たちは常に、才能ある開発者、デザイナー、そして愛好家の皆さんが私たちのコミュニティに参加し、プロジェクトに貢献することを歓迎しています。経験豊富なプロでも、これから始める初心者でも大歓迎です。一緒にWhatsAppボットの未来を形作りましょう。
 
-How to Contribute
+**How to Contribute**
 
 私たちのプロジェクトに貢献したい場合は、以下の手順に従ってください：
 
@@ -91,11 +89,11 @@ How to Contribute
 
 プルリクエストを提出してレビューを受ける
 
-Join Our Community
+**Join Our Community**
 
 私たちはGitHubをはじめとする様々なプラットフォームで活動しています。ぜひ私たちのコミュニティに参加して、最新ニュース、リリース、ディスカッションをチェックしてください。
 
-License
+**License**
 
 私たちのプロジェクトはMITライセンスのもとで公開されており、自由な使用、改変、配布が可能です。
 

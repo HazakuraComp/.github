@@ -1,4 +1,5 @@
-<img src="https://pbs.twimg.com/media/FC4i6KtXsAo_4J7.png" align="center">
+<img src="https://pbs.twimg.com/media/FC4i6KtXsAo_4J7.png" alt="Image" style="display: block; margin: auto;">
+
 <h1 align="center">HazakuraComp</h1>
 <h3 align="center">Made with love from Renlikesmoon, based in Indonesia</h3>
 

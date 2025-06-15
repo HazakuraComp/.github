@@ -151,7 +151,7 @@ HazakuraComp는 WhatsApp 봇이 일상생활의 필수적인 부분이 되어 �
 
 커뮤니티에 참여해 주셔서 감사합니다. 여러분이 WhatsApp 봇으로 어떤 것을 만들어낼지 기대하고 있습니다!
 
-==============================================
+# Hazakura #
 
 <img src="https://pbs.twimg.com/media/FC4i6KtXsAo_4J7.png" alt="Image" style="display: block; margin: auto;">
 <h3 align="left">Ko</h3> 
